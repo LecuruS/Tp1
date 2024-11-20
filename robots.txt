@@ -1,0 +1,6 @@
+On peut communiquer avec le robot sur cette page. On peut surtout lui indiquer de ne pas référencer certaines page de notre site. http://robots-txt.com
+
+Exemples: 
+
+User-agent: *
+Disallow : /page-a.html
